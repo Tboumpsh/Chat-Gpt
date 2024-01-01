@@ -1,3 +1,26 @@
+/*
+About Us project💫
+
+ Name of the programmer:
+1- Fateme Satouri
+
+Project name :
+chat bot
+
+Project description:
+This is a chat gpt project. In this project, we tried to simulate gpt chat
+
+Start date:
+December 27
+
+end of the project:
+January 1
+
+email:navayearamm@gmail.com
+ */
+
+
+//create class
 'use strict';
 class ChatAI {
     constructor(options) {
