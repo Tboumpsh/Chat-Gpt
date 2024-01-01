@@ -1,6 +1,6 @@
-# chat bot
+# chat-gpt
 
-Hello, I am a **chatbot** written in JavaScript.
+Hello, I am a **chat-gpt** written in JavaScript.
 ![|chat bot](https://project-seo.net/wp-content/uploads/2021/02/chat-bot.jpeg)
 
 
